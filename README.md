@@ -9,7 +9,7 @@
 
 #### 安装教程
 
-1.  xxxx
+1.  pip install -r requirements.txt 来安装该项目所依赖的所有包
 2.  xxxx
 3.  xxxx
 

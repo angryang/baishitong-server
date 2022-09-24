@@ -1,7 +1,7 @@
-# QunQABackend
+# baishitong
 
 #### Description
-群wiki后台程序
+baishitong 社区wiki后台程序
 
 #### Software Architecture
 Software architecture description
